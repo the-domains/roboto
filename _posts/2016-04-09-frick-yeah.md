@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Hello! Welcome'
-datePublished: '2016-04-09T03:19:17.772Z'
-dateModified: '2016-04-09T03:19:17.330Z'
+datePublished: '2016-04-09T03:23:13.738Z'
+dateModified: '2016-04-09T03:23:13.191Z'
 title: Frick Yeah
 author: []
+sourcePath: _posts/2016-04-09-frick-yeah.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-frick-yeah.md
-published: true
 url: frick-yeah/index.html
 _type: Article
 
@@ -67,9 +67,8 @@ This is a helpful one during usability testing to better understand user intent.
 \[need 2 more\]
 
 ### Enjoy the silence
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47af1e72-4419-462d-8d15-cb41f1299786.gif)
 
 Silence can work wonders during an interview. Sometimes it's best to not ask anything, and pause before moving on to another question. Many times, just when I'm about to move on to another question, the interviewee fills that silence with something interesting.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cb3e65-92ed-42f3-82a5-d868b8c79b2c.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47af1e72-4419-462d-8d15-cb41f1299786.gif)
 
 [0]: http://www.fastcodesign.com/3031942/google-ventures-on-8-shortcuts-for-better-faster-design-research
