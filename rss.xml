@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Site]]></title>
+        <description><![CDATA[My Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 03:24:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Information wrangler]]></title>
+            <description><![CDATA[<article><h1>Information wrangler</h1><p>Hi, I’m Eileen. I work with organizations to build websites and applications for real people. I’m currently a UX Researcher atZapier.</p></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">dc5d26ce-8f9e-4f7e-9459-ed5ee364c35f</guid>
+            <pubDate>Sat, 09 Apr 2016 03:24:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
