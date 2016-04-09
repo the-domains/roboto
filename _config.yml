@@ -1,0 +1,28 @@
+name: roboto
+favicon: null
+layout_spectrum: 0.09480388928204775
+typography_spectrum: 0.45479450025595725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8574813751038164
+  lightness: 0.26686259428970516
+  saturation: 0.739050715463236
+  rhythmicContrast: 0.040150148794054985
+purpose: []
