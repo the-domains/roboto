@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[My Site]]></title>
         <description><![CDATA[My Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roboto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 14:42:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 14:46:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roboto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22cb4a8e-44b9-454b-be3e-19f72fdee788.jpg">]]></description>
-            <link>undefinedthere-are-several-trains-every-day-linking-zagreb-and-ljubljan/index.html</link>
+            <link>https://thegrid.ai/roboto/there-are-several-trains-every-day-linking-zagreb-and-ljubljan/index.html</link>
             <guid isPermaLink="false">278aab1f-c114-4666-ba85-430c0b221466</guid>
-            <pubDate>Sun, 05 Jun 2016 14:42:15 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2016 14:46:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
