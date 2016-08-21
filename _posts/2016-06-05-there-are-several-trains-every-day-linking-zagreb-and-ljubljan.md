@@ -9,8 +9,8 @@ description: >-
   2h28. It's a lovely scenic train ride through the hills along the beautiful
   River Sava. You can easily buy tickets from Zagreb to Ljubljana or vice versa
   at the station for around €18. They cannot be bought online.
-datePublished: '2016-08-21T18:17:03.258Z'
-dateModified: '2016-08-21T18:17:03.061Z'
+datePublished: '2016-08-21T18:19:57.838Z'
+dateModified: '2016-08-21T18:19:56.982Z'
 title: ''
 author: []
 sourcePath: >-
