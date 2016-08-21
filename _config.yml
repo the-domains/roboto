@@ -1,4 +1,3 @@
-layout_spectrum: 0.7927421135827899
 typography_spectrum: 0.14691893476992846
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7927421135827899
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Test
+    id: eacdcc87-4abb-4293-aa27-6e97f155cf4f
+    type: content
 favicon: null
 title: eileen.is
 purpose: []
