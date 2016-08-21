@@ -9,14 +9,15 @@ description: >-
   2h28. It's a lovely scenic train ride through the hills along the beautiful
   River Sava. You can easily buy tickets from Zagreb to Ljubljana or vice versa
   at the station for around €18. They cannot be bought online.
-datePublished: '2016-06-05T14:46:35.742Z'
-dateModified: '2016-06-05T14:44:21.683Z'
+datePublished: '2016-08-21T18:17:03.258Z'
+dateModified: '2016-08-21T18:17:03.061Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-05-there-are-several-trains-every-day-linking-zagreb-and-ljubljan.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: there-are-several-trains-every-day-linking-zagreb-and-ljubljan/index.html
 _type: Article
@@ -37,4 +38,6 @@ A foreign use charge of 9.80 EUR per day, max. 29.30 EUR per rental applies. Cro
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2af8fe97-887f-4f38-95eb-0fa0e4d8ec05.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61bc3b8b-2113-4480-9707-cfaac339956d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20b96469-570c-4bf2-b13c-b9263490635d.jpg)
+
+Pst
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0a74e7b-2da9-4c88-99ea-1893b8446c87.jpg)
